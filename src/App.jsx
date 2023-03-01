@@ -1,7 +1,18 @@
 import "./App.css";
+import PopularPlaces from "./components/PopularPlacesSection";
+import Hero from "./components/HeroSection";
+import NavBar from "./components/HeaderSection";
 
 function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+  return (
+    <>
+      <NavBar />
+
+      <Hero />
+
+      <PopularPlaces />
+    </>
+  );
 }
 
 export default App;
