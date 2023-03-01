@@ -5,7 +5,7 @@ const Hero = () => {
     <>
       <div className="relative h-screen">
         <img
-          src="/public/images/hero/hero_4.jpg"
+          src="/images/hero/hero_4.jpg"
           alt=""
           className="h-full w-full object-cover"
         />

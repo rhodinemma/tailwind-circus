@@ -17,7 +17,7 @@ const PopularPlaces = () => {
               <div className="bg-white rounded-md shadow mx-w-xl overflow-hidden">
                 <div className="h-48 overflow-hidden">
                   <img
-                    src="/public/images/skynews-dentist-generic_5393494.jpg"
+                    src="/images/skynews-dentist-generic_5393494.jpg"
                     alt=""
                     className="w-full h-full object-cover"
                   />
@@ -61,7 +61,7 @@ const PopularPlaces = () => {
               <div className="bg-white rounded-md shadow mx-w-xl overflow-hidden">
                 <div className="h-48 overflow-hidden">
                   <img
-                    src="/public/images/20210221-KXCoffeeGym29.jpg"
+                    src="/images/20210221-KXCoffeeGym29.jpg"
                     alt=""
                     className="w-full h-full object-cover"
                   />
@@ -103,7 +103,7 @@ const PopularPlaces = () => {
               <div className="bg-white rounded-md shadow mx-w-xl overflow-hidden">
                 <div className="h-48 overflow-hidden">
                   <img
-                    src="/public/images/download.jpg"
+                    src="/images/download.jpg"
                     alt=""
                     className="w-full h-full object-cover"
                   />
@@ -152,7 +152,7 @@ const PopularPlaces = () => {
               <div className="bg-white rounded-md shadow mx-w-xl overflow-hidden">
                 <div className="h-48 overflow-hidden">
                   <img
-                    src="/public/images/images (1).jpg"
+                    src="/images/images (1).jpg"
                     alt=""
                     className="w-full h-full object-cover"
                   />
@@ -196,7 +196,7 @@ const PopularPlaces = () => {
               <div className="bg-white rounded-md shadow mx-w-xl overflow-hidden">
                 <div className="h-48 overflow-hidden">
                   <img
-                    src="/public/images/res-pic (7).jpg"
+                    src="/images/res-pic (7).jpg"
                     alt=""
                     className="w-full h-full object-cover"
                   />
@@ -240,7 +240,7 @@ const PopularPlaces = () => {
               <div className="bg-white rounded-md shadow mx-w-xl overflow-hidden">
                 <div className="h-48 overflow-hidden">
                   <img
-                    src="/public/images/hero/hero_1.jpg"
+                    src="/images/hero/hero_1.jpg"
                     alt=""
                     className="w-full h-full object-cover"
                   />
